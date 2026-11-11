@@ -31,7 +31,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 13.0"
   spec.add_development_dependency "rspec", "~> 3.13.0"
   spec.add_development_dependency "rspec-html-matchers", "~> 0.10.0"
-  spec.add_development_dependency "simplecov", "~> 0.22.0"
+  spec.add_development_dependency "simplecov", "~> 1.3.2"
   # Code style
   spec.add_development_dependency "rubocop-rails", "~> 2.28.0"
   spec.add_development_dependency "rubocop-rake", "~> 0.6.0"
